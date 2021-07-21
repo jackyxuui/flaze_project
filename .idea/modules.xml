@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/flaze_OA.iml" filepath="$PROJECT_DIR$/.idea/flaze_OA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../new_project/.idea/new_project.iml" filepath="$PROJECT_DIR$/../new_project/.idea/new_project.iml" />
     </modules>
   </component>
 </project>

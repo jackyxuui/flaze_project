@@ -1,0 +1,164 @@
+[{
+	"transactionAmount": 1.41,
+	"transactionDate": "2021-04-02",
+	"enum": "male",
+	"firstname": "Kaia",
+	"lastname": "Brodench",
+	"city": "Osaka",
+	"email": "Kaia.Brodench@gmail.com"
+},
+{
+	"transactionAmount": 151.7,
+	"transactionDate": "2021-04-02",
+	"enum": "female",
+	"firstname": "Eolanda",
+	"lastname": "Ezar",
+	"city": "Espoo",
+	"email": "Eolanda.Ezar@gmail.com"
+},
+{
+	"transactionAmount": 51.58,
+	"transactionDate": "2021-04-08",
+	"enum": "female",
+	"firstname": "Randa",
+	"lastname": "Verger",
+	"city": "N'Djamena",
+	"email": "Randa.Verger@gmail.com"
+},
+{
+	"transactionAmount": 116.27,
+	"transactionDate": "2021-04-08",
+	"enum": "male",
+	"firstname": "Sarette",
+	"lastname": "Buttaro",
+	"city": "South Tarawa",
+	"email": "Sarette.Buttaro@gmail.com"
+},
+{
+	"transactionAmount": 152.88,
+	"transactionDate": "2021-04-19",
+	"enum": "female",
+	"firstname": "Ulrike",
+	"lastname": "Joni",
+	"city": "Nassau",
+	"email": "Ulrike.Joni@gmail.com"
+},
+{
+	"transactionAmount": 111.01,
+	"transactionDate": "2021-04-25",
+	"enum": "female",
+	"firstname": "Genevra",
+	"lastname": "Meli",
+	"city": "Dallas",
+	"email": "Genevra.Meli@gmail.com"
+},
+{
+	"transactionAmount": 147.39,
+	"transactionDate": "2021-04-30",
+	"enum": "female",
+	"firstname": "Hyacinthe",
+	"lastname": "Federica",
+	"city": "Ambon",
+	"email": "Hyacinthe.Federica@gmail.com"
+},
+{
+	"transactionAmount": 196.92,
+	"transactionDate": "2021-05-02",
+	"enum": "male",
+	"firstname": "Eugine",
+	"lastname": "Lorenz",
+	"city": "Macapá",
+	"email": "Eugine.Lorenz@gmail.com"
+},
+{
+	"transactionAmount": 120.93,
+	"transactionDate": "2021-05-12",
+	"enum": "female",
+	"firstname": "Jessamyn",
+	"lastname": "Alwin",
+	"city": "Simferopol",
+	"email": "Jessamyn.Alwin@gmail.com"
+},
+{
+	"transactionAmount": 12.22,
+	"transactionDate": "2021-05-13",
+	"enum": "male",
+	"firstname": "Tori",
+	"lastname": "Cornelia",
+	"city": "Muscat",
+	"email": "Tori.Cornelia@gmail.com"
+},
+{
+	"transactionAmount": 51.36,
+	"transactionDate": "2021-05-29",
+	"enum": "female",
+	"firstname": "Juliane",
+	"lastname": "Vins",
+	"city": "Valparaíso",
+	"email": "Juliane.Vins@gmail.com"
+},
+{
+	"transactionAmount": 181.74,
+	"transactionDate": "2021-06-02",
+	"enum": "female",
+	"firstname": "Inga",
+	"lastname": "Belldas",
+	"city": "Yaoundé",
+	"email": "Inga.Belldas@gmail.com"
+},
+{
+	"transactionAmount": 59.81,
+	"transactionDate": "2021-06-07",
+	"enum": "online",
+	"firstname": "Kaja",
+	"lastname": "Melony",
+	"city": "Johor Bahru",
+	"country": "Morocco",
+	"countryCode": "SV",
+	"email uses current data": "Kaja.Melony@gmail.com"
+},
+{
+	"transactionAmount": 91.62,
+	"transactionDate": "2021-06-17",
+	"enum": "male",
+	"firstname": "Ardeen",
+	"lastname": "Junie",
+	"city": "San Salvador",
+	"email": "Ardeen.Junie@gmail.com"
+},
+{
+	"transactionAmount": 119.07,
+	"transactionDate": "2021-06-18",
+	"enum": "female",
+	"firstname": "Micheline",
+	"lastname": "Gladstone",
+	"city": "Lobamba",
+	"email": "Micheline.Gladstone@gmail.com"
+},
+{
+	"transactionAmount": 63.36,
+	"transactionDate": "2021-06-18",
+	"enum": "female",
+	"firstname": "Shandie",
+	"lastname": "Zuzana",
+	"city": "Ilhéus",
+	"email": "Shandie.Zuzana@gmail.com"
+},
+{
+	"transactionAmount": 96.17,
+	"transactionDate": "2021-06-22",
+	"enum": "male",
+	"firstname": "Kirbee",
+	"lastname": "Belanger",
+	"city": "Davao City",
+	"email": "Kirbee.Belanger@gmail.com"
+},
+{
+	"transactionAmount": 18.21,
+	"transactionDate": "2021-06-28",
+	"enum": "female",
+	"firstname": "Nadine",
+	"lastname": "Diann",
+	"city": "Shijiazhuang",
+	"email": "Nadine.Diann@gmail.com"
+}]
