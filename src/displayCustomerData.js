@@ -1,17 +1,26 @@
 import './App.css';
 import React, {useState} from 'react';
-// import {useEffect} from 'react';
+import { useEffect } from 'react';
+import axios from "axios";
 
-import transaction from './transaction.json'
+// import transaction from './transaction.json'
 
 export default function DisplayCustomerData(){
     const [customerData, setCustomerData] = useState([]);
     // setCustomerData(transaction);
     const [btnText, setBtnText] = useState("Show Customer Transaction History");
     const [showTransactions, setShowTransactions] = useState(false);
-    // useEffect(()=>{
-    //     setCustomerData(transaction);
-    // },[]);
+    const [transaction, setTransaction] = useState([]);
+
+    // async call
+    useEffect(() => {
+        async function fetchData(){
+            const request = await axios.get("https://jackyxuui.github.io/api/transaction.json")
+            setTransaction(request.data);
+            return request;
+        }
+        fetchData();
+    },[])
     const buttonHandler = () =>{
         if(btnText === "Show Customer Transaction History"){
             setBtnText("Hide Customer Transaction History");
